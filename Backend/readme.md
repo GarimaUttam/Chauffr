@@ -1,8 +1,9 @@
-# Chauffr API Documentation
+# Backend API Documentation
 
-## User Registration
+## User Registration -- /users/register endpoint
 
-### POST /users/register
+### HTTP Method
+POST 
 
 Registers a new user in the system.
 
